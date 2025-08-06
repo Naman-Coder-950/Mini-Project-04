@@ -1,4 +1,3 @@
-# Mini-Project-04
 ComboFinder
 
 Problem Statement: ComboFinder
